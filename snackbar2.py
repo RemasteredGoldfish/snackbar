@@ -8,7 +8,6 @@ saus = 0
 maat = 0
 maatXXL = 0
 brood = 0
-formatter = "{0:.2f}"
 
 aantalpatat = int(input('hoeveel patat wilt u hebben? '))
 for i in range(aantalpatat):
